@@ -11,11 +11,14 @@
 - Smoke, UI, Functional Testing. 
 - Google Sheets, Telegram, Notion, Chrome DevTools, Postman. 
 
-## Projects I’ve Contributed To:
-- ### 🐞 Bug Reports
+###  📁 Содержание
+
+### 🐞 Bug Reports
 - [Bug Report (Google Docs)](https://docs.google.com/document/d/1VHSQ9rlFkpSnBL7k2IkHX5e5yyUz2pUTkJ9qbJ3IFdI/edit?tab=t.0)
 ### ✅ Test Cases
 - [Test Cases (Google Sheets)](https://docs.google.com/spreadsheets/d/1Xc7LZQa5AvEXh9HSPeepiF4d0MoOTnnzJywxHcO9Do4/edit?gid=0#gid=0)
+
+### Projects I’ve Contributed To:
 - [Hucklancer telegram bot](https://t.me/Hacklancer_bot)
 
 ## Socials:
