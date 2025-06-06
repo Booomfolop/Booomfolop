@@ -19,7 +19,7 @@
 ### ✅ Test Cases
 - [Test Cases (Google Sheets)](https://docs.google.com/spreadsheets/d/1Xc7LZQa5AvEXh9HSPeepiF4d0MoOTnnzJywxHcO9Do4/edit?gid=0#gid=0)
 ### 🧾 Checklists
--[Чек-листы  (Google Sheets)](https://docs.google.com/spreadsheets/d/1nj57r-K66ZMBnIB4K24lNJdEi__iyFi9K_wKC4PO07I/edit?gid=422025855#gid=422025855)
+- [Чек-листы  (Google Sheets)](https://docs.google.com/spreadsheets/d/1nj57r-K66ZMBnIB4K24lNJdEi__iyFi9K_wKC4PO07I/edit?gid=422025855#gid=422025855)
 
 ## Projects I’ve Contributed To:
 - [Hucklancer telegram bot](https://t.me/Hacklancer_bot)
