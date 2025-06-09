@@ -10,7 +10,7 @@
 - Оформление чек-листов (Сhecklist)
 - Тестирование Telegram-ботов.
 - Smoke, UI, Functional Testing. 
-- Google Sheets, Telegram, Notion, Chrome DevTools, Postman. 
+- Google Sheets, Telegram, Notion, Chrome DevTools, Postman, Yougile. 
 
 ##  📁 Содержание
 
